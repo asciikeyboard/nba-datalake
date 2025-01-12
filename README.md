@@ -54,11 +54,7 @@ nano setup_nba_data_lake.py
 
 -Go back to the Cloudshell window and paste the contents inside the file.
 
-3. Find the line of code under #Sportsdata.io configurations that says "api_key" 
-paste your api key inside the quotations
-
-4. Press ^X to exit, press Y to save the file, press enter to confirm the file name 
-
+3. Press ^X to exit, press Y to save the file, press enter to confirm the file name 
 
 # Step 3: Create .env file
 1. In the CLI (Command Line Interface), type
